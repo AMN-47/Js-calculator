@@ -1,0 +1,9 @@
+document.addEventListener("DOMContentLoaded" ,function(){
+    //Store all components on html in JS
+    let clear = document.querySelector("#clear-btn");
+    let equal = document.querySelector(".equal");
+    let decimal = document.querySelector(".decimal");
+
+    let numbers = document.querySelectorAll(".number");
+    let operators = document.querySelectorAll(".operator")
+})
