@@ -19,14 +19,26 @@ body{
     border-radius: 10px;
 } 
 
+.number:hover{
+    background-color: aqua;
+}
+
 .operator{
     border: 1px solid blue;
     border-radius: 10px;
 }
 
+.operator:hover{
+    background-color: aqua;
+}
+
 .decimal{
     border: 1px solid gold;
     border-radius: 10px;
+} 
+
+.decimal:hover{
+    background-color: aqua;
 }
 
 .equal{
@@ -34,7 +46,15 @@ body{
     border-radius: 10px;
 } 
 
+.equal:hover{
+    background-color: aqua;
+}
+
 .clear{
     border: 1px solid violet;
     border-radius: 10px;
+} 
+
+.clear:hover{
+    background-color: aqua;
 }
