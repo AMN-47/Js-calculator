@@ -48,4 +48,12 @@ button:hover{
 
 button:active{
     background-color: hsl(0, 0%, 50%);
-}/*changes color when buttons are clicked on*/
+}/*changes color when buttons are clicked on*/ 
+
+.operator-btn{
+    background-color: hsl(35, 100%, 55%);
+}/* changes all operator buttons to orange*/ 
+
+.operator-btn:hover{
+    background-color: hsl(35, 100%, 65%);
+}
