@@ -10,5 +10,5 @@ function clearDisplay(){
 } 
 
 function calculate(){
-
+    
 }
